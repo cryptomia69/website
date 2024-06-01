@@ -104,13 +104,7 @@ export default function Home() {
 									Plant the seeds of your effort and watch your future bloom.
 									Join now and cultivate a legacy of financial freedom and innovation.
 									Farm xNEXA for a brighter tomorrow! 
-                                                                        <br />
 								</p>
-							<Link href="https://play.roborift.world/">
-								<a className="px-8 py-3 rounded-xl bg-pink-600 font-semibold my-5">
-									Play Now
-								</a>
-							</Link>
 							</div>
 							<div className="py-8 md:py-0">
 								<Image
