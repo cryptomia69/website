@@ -71,7 +71,7 @@ export default function Home() {
 						</div>
 						<div className="w-auto lg:w-96 2xl:w-auto my-8 md:my-0">
 							<Image
-								src="/server.png"
+								src="/server.PNG"
 								alt="Server"
 								width={600}
 								height={600}
