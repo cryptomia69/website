@@ -42,7 +42,7 @@ export default function Home() {
 						</Link>
 					</nav>
 					<div className="flex">
-						<Link href="https://play.roborift.world/">
+						<Link href="https://game-ui-test.vercel.app/">
 							<a className="px-5 py-3 rounded-xl bg-pink-600 ml-3 font-semibold text-sm hidden md:block">
 								Play Game
 							</a>
@@ -63,7 +63,7 @@ export default function Home() {
 								player-to-player (P2P) game where you&apos;ll experience the
 								thrill of robot fighting and staking.
 							</p>
-							<Link href="https://play.roborift.world/">
+							<Link href="https://game-ui-test.vercel.app/">
 								<a className="px-8 py-3 rounded-xl bg-pink-600 font-semibold my-5">
 									Play Now
 								</a>
