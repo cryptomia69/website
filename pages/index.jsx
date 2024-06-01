@@ -100,11 +100,11 @@ export default function Home() {
 									Airdrop X NEXA
 								</h2>
 								<p className="text-zinc-400">
-									In Nexa Finance, a cutting-edge DeFi DEX and NFT game,
 									users farm xNEXA points to earn valuable Nexa airdrops.
 									Plant the seeds of your effort and watch your future bloom.
-									Join now and cultivate a legacy of financial freedom and innovation. 
-                                                                        Farm xNEXA for a brighter tomorrow!
+									Join now and cultivate a legacy of financial freedom and innovation.
+									Farm xNEXA for a brighter tomorrow! 
+                                                                        
 								</p>
 							<Link href="https://play.roborift.world/">
 								<a className="px-8 py-3 rounded-xl bg-pink-600 font-semibold my-5">
