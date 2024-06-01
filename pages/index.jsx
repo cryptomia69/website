@@ -97,13 +97,14 @@ export default function Home() {
 						<div className="flex flex-col md:flex-row justify-between items-center my-5 mx-10">
 							<div className="w-full md:w-1/2">
 								<h2 className="font-semibold text-3xl font-orbitron tracking-widest my-2">
-									Staking
+									Airdrop X NEXA
 								</h2>
 								<p className="text-zinc-400">
-									Stake RX in Robo Rift for powerful equipment. Connect bootable
-									flash drive to generate RX & RA. Participate in events &
-									challenges to optimize strategies & become the ultimate
-									champion. Start staking now towards becoming king of the rift.
+									In Nexa Finance, a cutting-edge DeFi DEX and NFT game,
+									users farm xNEXA points to earn valuable Nexa airdrops.
+									Plant the seeds of your effort and watch your future bloom.
+									Join now and cultivate a legacy of financial freedom and innovation. 
+                                                                        Farm xNEXA for a brighter tomorrow!
 								</p>
 							<Link href="https://play.roborift.world/">
 								<a className="px-8 py-3 rounded-xl bg-pink-600 font-semibold my-5">
