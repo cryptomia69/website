@@ -105,6 +105,11 @@ export default function Home() {
 									challenges to optimize strategies & become the ultimate
 									champion. Start staking now towards becoming king of the rift.
 								</p>
+							<Link href="https://play.roborift.world/">
+								<a className="px-8 py-3 rounded-xl bg-pink-600 font-semibold my-5">
+									Play Now
+								</a>
+							</Link>
 							</div>
 							<div className="py-8 md:py-0">
 								<Image
