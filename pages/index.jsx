@@ -59,9 +59,9 @@ export default function Home() {
 								Welcome to the future, players!
 							</h2>
 							<p className="text-zinc-400 mt-5 mb-10">
-								Welcome to Robo Rift, the cutting-edge wax-based
-								player-to-player (P2P) game where you&apos;ll experience the
-								thrill of robot fighting and staking.
+								In the distant corners of the digital cosmos, where blockchain constellations shimmer and the vast expanse of virtual economies thrive, lies a mystical land known as Nexa. A realm built on the foundations of community, collaboration, and endless possibilities, Nexa is a land rich in a unique resource known as Nexa Tokens.
+
+The story of Nexa Forge begins in the heart of this vibrant land, where the ancient forges of the Nexa Mines stand as a testament to the ingenuity and resilience of its inhabitants. Long ago, the great ancestors of Nexa discovered the secret to harnessing the power of Nexa Tokens. They forged these tokens from the very essence of the land, creating a thriving economy that brought prosperity and innovation to all corners of the realm.
 							</p>
 							<Link href="https://game-ui-test.vercel.app/">
 								<a className="px-8 py-3 rounded-xl bg-pink-600 font-semibold my-5">
